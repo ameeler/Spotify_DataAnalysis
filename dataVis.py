@@ -4,9 +4,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# https://stmorse.github.io/journal/spotify-api.html
-
-
 # Gets track information for every Twenty One Pilots song
 ##################################################################################################
 CLIENT_ID = "f0b26c5ec3994478a88fe67a7541c37c"
